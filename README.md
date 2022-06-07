@@ -106,6 +106,10 @@ service nginx restart
 vagrant up
 http://localhost:8000
 ```
+6* пример запуска
+```
+![image](https://user-images.githubusercontent.com/46539072/172270993-0ef5315b-a288-45e5-9314-45fb4f66e25c.png)
+```
 7 Основные команды
 ```
 vagrant up - запустить или создать виртуальную машину
