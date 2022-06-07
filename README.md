@@ -106,7 +106,7 @@ service nginx restart
 vagrant up
 http://localhost:8000
 ```
-6* пример запуска
+6* пример запуска ubuntu-trusty-64
 
 ![image](https://user-images.githubusercontent.com/46539072/172271050-b11f907e-58b3-4081-aa9e-3fc04322a0d6.png)
 
